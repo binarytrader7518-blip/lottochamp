@@ -1,0 +1,9 @@
+{
+  "name": "lotto-champ-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "indexnow": "node scripts/indexnow-submit.mjs",
+    "indexnow:all": "node scripts/indexnow-submit.mjs --all"
+  }
+}
